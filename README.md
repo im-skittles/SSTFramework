@@ -1,4 +1,7 @@
 # SkittlesSuite
-A collection of homebrewed tools made by Skittles_
+SSTF or the SkSweetTooth Framework, contains a couple of tools home-made by Skittles_
 
-GNU Public liscense 2.0
+Feel free to change it up and do whatever! 
+
+
+Written in Python 3. :snake:
