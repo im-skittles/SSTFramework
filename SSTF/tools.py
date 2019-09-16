@@ -25,6 +25,7 @@ def portscan():
 	print("Open TCP Ports: ", scanner[ip].all_tcp())
 	print("Open UDP Ports: ", scanner[ip].all_udp())
 	print("Open IP Ports: ", scanner[ip].all_ip())
+	sys.exit()
 
 #exit the framework
 
