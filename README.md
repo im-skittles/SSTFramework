@@ -1,7 +1,2 @@
 # SSTF
-SSTF or the SkSweetTooth Framework, contains a couple of tools home-made by Skittles_
-
-Feel free to change it up and do whatever! 
-
-
-Written in Python 3. :snake:
+SSTF is an abandoned project that i had originally started to make a sort of skid-ish script to automate a few tasks, this code wont be updated further.
